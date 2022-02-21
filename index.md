@@ -1,7 +1,6 @@
 ---
 title: DocStore
 ---  
-![](DocStore_Logo.PNG)
 
 DocStore verwaltet Dokumente beliebiger Formate in der relationalen Datenbank (H2).
 Das Programm eignet sich speziell für die Archivierung in privaten Haushalten.  
